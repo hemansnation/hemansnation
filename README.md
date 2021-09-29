@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# I am Himanshu Ramchandani
+# I am Himanshu Ramchandani :sunflower:
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
