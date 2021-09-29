@@ -17,4 +17,3 @@ Here are some ideas to get you started:
 
 # I am Himanshu Ramchandani :sunflower:
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
