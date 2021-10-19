@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 🔭 Innovative Data Scientist with 6+ years of experience in Software Development and Data Science. Working on reinforcing business solutions with Artiﬁcial Intelligence. Eager to bring expertise to solving challenging new problems.
 
-- ⚡ Understanding requirements of the institution and consult for the projects, academic, research papers, tools recommendation to enhance the performance with Artiﬁcial Intelligence and Machine Learning.
-- ⚡ Developed data pipeline and ﬂow with DevOps on AWS, and GCP on the projects for the team of engineers.
-- ⚡ Monitoring and generating Analytical reports on the institution data for admission and academics.
+    ⚡ Understanding requirements of the institution and consult for the projects, academic, research papers, tools recommendation to enhance the performance with       Artiﬁcial Intelligence and Machine Learning.
+    ⚡ Developed data pipeline and ﬂow with DevOps on AWS, and GCP on the projects for the team of engineers.
+    ⚡ Monitoring and generating Analytical reports on the institution data for admission and academics.
 Conducted more than 200 webinars on Data Science and Artiﬁcial Intelligence.
 
 - Worked with data, applying statistical models, designing the ﬂow of the data product, monitoring the end-to-end products.
