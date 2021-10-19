@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 
 # I am Himanshu Ramchandani :sunflower:
 
-🔭 Innovative Data Scientist with 6+ years of experience in Software Development and Data Science. Working on reinforcing business solutions with Artiﬁcial Intelligence. Eager to bring expertise to solving challenging new problems.
+🔭 Innovative Data Scientist with 6+ years of experience in Software Development and Data Science. Working on reinforcing business solutions with Artiﬁcial Intelligence. Eager to bring expertise to solving challenging new problems.<br>
 
-⚡ Understanding requirements of the institution and consult for the projects, academic, research papers, tools recommendation to enhance the performance with      Artiﬁcial Intelligence and Machine Learning.
-⚡ Developed data pipeline and ﬂow with DevOps on AWS, and GCP on the projects for the team of engineers.
-⚡ Monitoring and generating Analytical reports on the institution data for admission and academics. Conducted more than 200 webinars on Data Science and Artiﬁcial Intelligence.
+⚡ Understanding requirements of the institution and consult for the projects, academic, research papers, tools recommendation to enhance the performance with      Artiﬁcial Intelligence and Machine Learning.<br>
+⚡ Developed data pipeline and ﬂow with DevOps on AWS, and GCP on the projects for the team of engineers.<br>
+⚡ Monitoring and generating Analytical reports on the institution data for admission and academics. Conducted more than 200 webinars on Data Science and Artiﬁcial Intelligence.<br><br>
 
 😄 Worked with data, applying statistical models, designing the ﬂow of the data product, monitoring the end-to-end products.
 😄 Worked on different projects in multiple domains like Finance, Education, Healthcare, Public Sector.
