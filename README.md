@@ -23,10 +23,10 @@ Here are some ideas to get you started:
 ⚡ Developed data pipeline and ﬂow with DevOps on AWS, and GCP on the projects for the team of engineers.<br>
 ⚡ Monitoring and generating Analytical reports on the institution data for admission and academics. Conducted more than 200 webinars on Data Science and Artiﬁcial Intelligence.<br><br>
 
-😄 Worked with data, applying statistical models, designing the ﬂow of the data product, monitoring the end-to-end products.
-😄 Worked on different projects in multiple domains like Finance, Education, Healthcare, Public Sector.
-😄 Solved complex problems with Natural Language Processing for written test of IAS exam. Advertising Analytics using machine learning models.
-😄 Image Analytics with Computer Vision, speciﬁcally weapon detection. Deep Learning powered Chatbot for IT Act India.
+😄 Worked with data, applying statistical models, designing the ﬂow of the data product, monitoring the end-to-end products.<br><br>
+😄 Worked on different projects in multiple domains like Finance, Education, Healthcare, Public Sector.<br><br>
+😄 Solved complex problems with Natural Language Processing for written test of IAS exam. Advertising Analytics using machine learning models.<br><br>
+😄 Image Analytics with Computer Vision, speciﬁcally weapon detection. Deep Learning powered Chatbot for IT Act India.<br><br>
 
 
 - Trained 5000+ Computer Science enthusiasts in Data Science, Machine Learning, Full Stack Web Development, and major project development, with technologies like Python, SQL, Tableau, Statistics, Numpy, Pandas, Matplotlib, Scikit-Learn.
