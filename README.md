@@ -21,6 +21,14 @@ Here are some ideas to get you started:
 
 🔭 Innovative Data Scientist with 6+ years of experience in Software Development and Data Science. Working on reinforcing business solutions with Artiﬁcial Intelligence. Eager to bring expertise to solving challenging new problems.<br>
 
+  •	5+ years of experience in Software Development including Analysis, Design, Development and Testing of various applications in JavaScript and Python environments.
+  •	Experience in Functional and Object-Oriented Programming style of Python and Javascript.
+  •	Got good exposure to UI design using Adobe Photoshop, Adobe Illustrator, Performed slicing	and dicing to convert a Photoshop design into a fully functional HTML, CSS and JS enabled website.
+  •	Expertise in Full Web Stack libraries like ReactJS, NodeJS, ExpressJS, Django.
+  •	Knowledge of Service Oriented Architecture (SOA).
+  •	Worked for industry clients and have experience working with healthcare clients, artificial intelligence companies, finance clients and the education sector.
+
+
 ⚡ Understanding requirements of the institution and consult for the projects, academic, research papers, tools recommendation to enhance the performance with      Artiﬁcial Intelligence and Machine Learning.<br>
 ⚡ Developed data pipeline and ﬂow with DevOps on AWS, and GCP on the projects for the team of engineers.<br>
 ⚡ Monitoring and generating Analytical reports on the institution data for admission and academics. Conducted more than 200 webinars on Data Science and Artiﬁcial Intelligence.<br><br>
