@@ -118,7 +118,6 @@ Integrated Development Environment: Jupyter-Notebook, Sublime Text, PyCharm.
 
 <br>
 
-<img align="left" alt="hemansnation's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=hemansnation&show_icons=true&hide_border=true" />
-
+![Himanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=hemansnation)
 
 
