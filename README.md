@@ -41,6 +41,8 @@ Here are some ideas to get you started:
   •	Knowledge of Service Oriented Architecture (SOA).<br>
   •	Worked for industry clients and have experience working with healthcare clients, artificial intelligence companies, finance clients and the education sector.<br><br>
 
+---
+
 Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -60,7 +62,11 @@ Languages and Tools:
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <br>
-<br><br>
+<br>
+
+---
+
+<br>
 ⚡ Understanding requirements of the institution and consult for the projects, academic, research papers, tools recommendation to enhance the performance with      Artiﬁcial Intelligence and Machine Learning.<br>
 ⚡ Developed data pipeline and ﬂow with DevOps on AWS, and GCP on the projects for the team of engineers.<br>
 ⚡ Monitoring and generating Analytical reports on the institution data for admission and academics. Conducted more than 200 webinars on Data Science and Artiﬁcial Intelligence.<br><br>
@@ -79,6 +85,10 @@ Languages and Tools:
 
 
 - Built a community of 2100+ Data Scientists on Instagram  by generating quality content on Artiﬁcial Intelligence and subﬁelds like machine learning, deep learning, NLP, computer vision.
+
+<br>
+
+---
 
 
 Research Thesis
@@ -101,3 +111,14 @@ Data Visualization: Matplotlib, Tableau, Seaborn.
 Cloud Services: AWS, Google Colaboratory, Kaggle kernel.
 
 Integrated Development Environment: Jupyter-Notebook, Sublime Text, PyCharm.
+
+<br>
+
+---
+
+<br>
+
+<img align="left" alt="hemansnation's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=hemansnation&show_icons=true&hide_border=true" />
+
+
+
