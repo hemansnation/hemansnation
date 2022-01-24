@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 # I am Himanshu Ramchandani :sunflower:
 
-🔭 Innovative Data Scientist with 6+ years of experience in Software Development and Data Science. Working on reinforcing business solutions with Artiﬁcial Intelligence. Eager to bring expertise to solving challenging new problems.<br>
+🔭 Innovative Data Scientist with 6+ years of experience in Software Development and Data Science. Working on reinforcing business solutions with Artiﬁcial Intelligence. Eager to bring expertise to solve new challenging problems.<br>
 
   •	5+ years of experience in Software Development including Analysis, Design, Development and Testing of various applications in JavaScript and Python environments.<br>
   •	Experience in Functional and Object-Oriented Programming style of Python and Javascript.<br>
