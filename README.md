@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
   •	5+ years of experience in Software Development including Analysis, Design, Development and Testing of various applications in JavaScript and Python environments.<br>
   •	Experience in Functional and Object-Oriented Programming style of Python and Javascript.<br>
-  •	Got good exposure to UI design using Adobe Photoshop, Adobe Illustrator, Performed slicing	and dicing to convert a Photoshop design into a fully functional HTML, CSS and JS enabled website.<br>
+  •	Got good exposure to UI UX design using Adobe Photoshop, Adobe Illustrator, Performed slicing	and dicing to convert a Photoshop design into a fully functional HTML, CSS and JS enabled website.<br>
   •	Expertise in Full Web Stack libraries like ReactJS, NodeJS, ExpressJS, Django.<br>
   •	Knowledge of Service Oriented Architecture (SOA).<br>
   •	Worked for industry clients and have experience working with healthcare clients, artificial intelligence companies, finance clients and the education sector.<br><br>
