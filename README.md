@@ -38,6 +38,7 @@ Here are some ideas to get you started:
   •	Experience in Functional and Object-Oriented Programming style of Python and Javascript.<br>
   •	Got good exposure to UI UX design using Adobe Photoshop, Adobe Illustrator, Performed slicing	and dicing to convert a Photoshop design into a fully functional HTML, CSS and JS enabled website.<br>
   •	Expertise in Full Web Stack libraries like ReactJS, NodeJS, ExpressJS, Django.<br>
+  •	In depth understanding of Python and JavaScript.<br>
   •	Knowledge of Service Oriented Architecture (SOA).<br>
   •	Worked for industry clients and have experience working with healthcare clients, artificial intelligence companies, finance clients and the education sector.<br><br>
 
