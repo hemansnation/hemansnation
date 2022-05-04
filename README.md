@@ -1,127 +1,64 @@
-### Hi there 👋
+Hi 👋 My name is Himanshu Ramchandani
+=====================================
 
+Data Scientist | MERN Stack Engineer
+------------------------------------
 ![](https://komarev.com/ghpvc/?username=hemansnation&label=PROFILE+VIEWS)
 
-### Connect with me:
+
+Innovative Data Scientist with 6+ years of experience in Software Development and Data Science. Working on reinforcing business solutions with Artiﬁcial Intelligence. Eager to bring expertise to solve new challenging problems. • 6+ years of experience in Software Development including Analysis, Design, Development, and Testing of various applications in JavaScript and Python environments. • Experience in Functional and Object-Oriented Programming styles of Python and Javascript. • Got good exposure to UI UX design using Adobe Photoshop, and Adobe Illustrator, Performed slicing and dicing to convert a Photoshop design into a fully functional HTML, CSS and JS enabled website. • Expertise in Full Web Stack libraries like ReactJS, NodeJS, ExpressJS, Django. • In-depth understanding of Python and JavaScript. • Knowledge of Service Oriented Architecture (SOA). • Worked for industry clients and have experience working with healthcare clients, artificial intelligence companies, finance clients, and the education sector. ⚡ Understanding requirements of the institution and consulting for the projects, academic, research papers, tools recommendations to enhance the performance with Artiﬁcial Intelligence and Machine Learning. ⚡ Developed data pipeline and ﬂow with DevOps on AWS, and GCP on the projects for the team of engineers. ⚡ Monitoring and generating Analytical reports on the institution data for admission and academics. Conducted more than 200 webinars on Data Science and Artiﬁcial Intelligence. 😄 Worked with data, applying statistical models, designing the ﬂow of the data product, and monitoring the end-to-end products. 😄 Worked on different projects in multiple domains like Finance, Education, Healthcare, Public Sector. 😄 Solved complex problems with Natural Language Processing for written test of IAS exam. Advertising Analytics using machine learning models. 😄 Image Analytics with Computer Vision, speciﬁcally weapon detection. Deep Learning powered Chatbot for IT Act India. Trained 5000+ Computer Science enthusiasts in Data Science, Machine Learning, Full Stack Web Development, and major project development, with technologies like Python, SQL, Tableau, Statistics, Numpy, Pandas, Matplotlib, Scikit-Learn. Mentor of students for Smart India Hackathon, won by them. Recruited, interviewed, and hired 100+ developers to keep up with partner company's growth and expansion. Hosted more than 20 in-house AI Hackathons. 400+ Free sessions on Python and Machine Learning. Built a community of 2100+ Data Scientists on Instagram by generating quality content on Artiﬁcial Intelligence and subﬁelds like machine learning, deep learning, NLP, and computer vision. Research Thesis Knowledge tracing, is the personation of student knowledge over time with advanced machine learning algorithms. The model builds on more than 13 Crore interactions of more than 7 lakh students. Tools | Frameworks Data Preprocessing: NumPy, Pandas. Machine and Deep Learning Implementation Framework: Scikit-Learn, PyTorch. Natural Language Processing: NLTK, BERT. Development: Python, Flask, Django, Git. Data Visualization: Matplotlib, Tableau, Seaborn. Cloud Services: AWS, Google Colaboratory, Kaggle kernel. Integrated Development Environment: Jupyter-Notebook, Sublime Text, PyCharm.
+
+* 🌍  I'm based in India
+* ✉️  You can contact me at [himanshuramchandani08@gmail.com](mailto:himanshuramchandani08@gmail.com)
+
+<a href="https://www.twitter.com/hemansnation" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/hemansnation?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+/></a><a href="https://www.github.com/hemansnation" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/hemansnation?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+
+### Skills
+
+<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" /></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
+<a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a>
+<a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
+<a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" width="36" height="36" alt="Webpack" /></a>
+<a href="https://babeljs.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/babel-colored.svg" width="36" height="36" alt="Babel" /></a>
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
+<a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
+<a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored.svg" width="36" height="36" alt="Flask" /></a>
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
+<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
+<a href="adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a>
+<a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="36" height="36" alt="XD" /></a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+</p>
 
 
-[<img align="left" alt="hemansnation | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/hemansnation)
-[<img align="left" alt="hemansnation | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/hemansnation/)
-[<img align="left" alt="hemansnation | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/hemansnation/)
-[<img align="left" alt="hemansnation" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](http://hemansai.com/)
-<!-- 
-[<img align="left" alt="hemansnation | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
- -->
+### Socials
 
-<!--
-**hemansnation/hemansnation** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <a href="https://www.github.com/hemansnation" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://hemansnation" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/hemansnation" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/hemansnation" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
-Here are some ideas to get you started:
+### Badges
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<b>My GitHub Stats</b>
 
-<br>
+<a href="http://www.github.com/hemansnation"><img src="https://github-readme-stats.vercel.app/api?username=hemansnation&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="hemansnation's GitHub stats" /></a>
 
-# I am Himanshu Ramchandani :sunflower:
+<a href="http://www.github.com/hemansnation"><img src="https://github-readme-streak-stats.herokuapp.com/?user=hemansnation&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="https://www.buymeacoffee.com/hemansnation" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-yellow.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+<a href="http://www.github.com/hemansnation"><img src="https://activity-graph.herokuapp.com/graph?username=hemansnation&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
+### Support Me
 
-🔭 Innovative Data Scientist with 6+ years of experience in Software Development and Data Science. Working on reinforcing business solutions with Artiﬁcial Intelligence. Eager to bring expertise to solve new challenging problems.<br>
-
-  •	6+ years of experience in Software Development including Analysis, Design, Development and Testing of various applications in JavaScript and Python environments.<br>
-  •	Experience in Functional and Object-Oriented Programming style of Python and Javascript.<br>
-  •	Got good exposure to UI UX design using Adobe Photoshop, Adobe Illustrator, Performed slicing	and dicing to convert a Photoshop design into a fully functional HTML, CSS and JS enabled website.<br>
-  •	Expertise in Full Web Stack libraries like ReactJS, NodeJS, ExpressJS, Django.<br>
-  •	In depth understanding of Python and JavaScript.<br>
-  •	Knowledge of Service Oriented Architecture (SOA).<br>
-  •	Worked for industry clients and have experience working with healthcare clients, artificial intelligence companies, finance clients and the education sector.<br><br>
-
----
-
-Languages and Tools:
-
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />
-<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<br>
-<br>
-
----
-
-<br>
-⚡ Understanding requirements of the institution and consult for the projects, academic, research papers, tools recommendation to enhance the performance with      Artiﬁcial Intelligence and Machine Learning.<br>
-⚡ Developed data pipeline and ﬂow with DevOps on AWS, and GCP on the projects for the team of engineers.<br>
-⚡ Monitoring and generating Analytical reports on the institution data for admission and academics. Conducted more than 200 webinars on Data Science and Artiﬁcial Intelligence.<br><br>
-
-😄 Worked with data, applying statistical models, designing the ﬂow of the data product, monitoring the end-to-end products.<br><br>
-😄 Worked on different projects in multiple domains like Finance, Education, Healthcare, Public Sector.<br><br>
-😄 Solved complex problems with Natural Language Processing for written test of IAS exam. Advertising Analytics using machine learning models.<br><br>
-😄 Image Analytics with Computer Vision, speciﬁcally weapon detection. Deep Learning powered Chatbot for IT Act India.<br><br>
-
-
-- Trained 5000+ Computer Science enthusiasts in Data Science, Machine Learning, Full Stack Web Development, and major project development, with technologies like Python, SQL, Tableau, Statistics, Numpy, Pandas, Matplotlib, Scikit-Learn.
-- Mentor of students for Smart India Hackathon, won by them.
-- Recruited, interviewed, and hired 100+ developers to keep up with partner company's growth and expansion.
-- Hosted more than 20 in-house AI Hackathons.
-- 400+ Free sessions on Python and Machine Learning.
-
-
-- Built a community of 2100+ Data Scientists on Instagram  by generating quality content on Artiﬁcial Intelligence and subﬁelds like machine learning, deep learning, NLP, computer vision.
-
-<br>
-
----
-
-
-Research Thesis
-- Knowledge tracing, the personation of student knowledge over time with advanced machine learning algorithms.
-- The model builds on more than 13 Crore interactions of more than 7 lakh students.
-
-
-Tools | Frameworks
-
-Data Preprocessing: NumPy, Pandas.
-
-Machine and Deep Learning Implementation Framework: Scikit-Learn, PyTorch.
-
-Natural Language Processing: NLTK, BERT.
-
-Development: Python, Flask, Django, Git.
-
-Data Visualization: Matplotlib, Tableau, Seaborn.
-
-Cloud Services: AWS, Google Colaboratory, Kaggle kernel.
-
-Integrated Development Environment: Jupyter-Notebook, Sublime Text, PyCharm.
-
-<br>
-
----
-
-<br>
-
-![Himanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=hemansnation)
-
+<a href="https://www.buymeacoffee.com/hemansnation"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
 
