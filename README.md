@@ -6,6 +6,17 @@ Data Scientist | MERN Stack Engineer
 ![](https://komarev.com/ghpvc/?username=hemansnation&label=PROFILE+VIEWS)
 
 
+<a href="https://www.twitter.com/hemansnation" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/hemansnation?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+/></a><a href="https://www.github.com/hemansnation" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/hemansnation?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+
+
+### Socials
+
+<p align="left"> <a href="https://www.github.com/hemansnation" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://hemansnation" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/hemansnation" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/hemansnation" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+
+
 Innovative Data Scientist with 6+ years of experience in Software Development and Data Science. Working on reinforcing business solutions with Artiﬁcial Intelligence. Eager to bring expertise to solve new challenging problems. 
 
 • 6+ years of experience in Software Development including Analysis, Design, Development, and Testing of various applications in JavaScript and Python environments. 
@@ -47,15 +58,20 @@ Tools | Frameworks
 
 Web: ReactJS, NodeJS, ExpressJS, MongoDB, GraphQL
 
-Data Preprocessing: NumPy, Pandas. Machine and Deep Learning Implementation Framework: Scikit-Learn, PyTorch. Natural Language Processing: NLTK, BERT. Development: Python, Flask, Django, Git. Data Visualization: Matplotlib, Tableau, Seaborn. Cloud Services: AWS, Google Colaboratory, Kaggle kernel. Integrated Development Environment: Jupyter-Notebook, Sublime Text, PyCharm.
+Data Preprocessing: NumPy, Pandas. 
+
+Machine and Deep Learning Implementation Framework: Scikit-Learn, PyTorch. 
+
+Natural Language Processing: NLTK, BERT. Development: Python, Flask, Django, Git. 
+
+Data Visualization: Matplotlib, Tableau, Seaborn. 
+
+Cloud Services: AWS, Google Colaboratory, Kaggle kernel. 
+
+Integrated Development Environment: Jupyter-Notebook, Sublime Text, PyCharm.
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [himanshuramchandani08@gmail.com](mailto:himanshuramchandani08@gmail.com)
-
-<a href="https://www.twitter.com/hemansnation" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/hemansnation?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a><a href="https://www.github.com/hemansnation" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/hemansnation?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### Skills
 
@@ -84,10 +100,6 @@ src="https://img.shields.io/github/followers/hemansnation?logo=github&style=for-
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
 
-
-### Socials
-
-<p align="left"> <a href="https://www.github.com/hemansnation" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://hemansnation" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/hemansnation" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/hemansnation" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
 ### Badges
 
