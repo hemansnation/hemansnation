@@ -73,15 +73,15 @@ Innovative Data Scientist with 6+ years of experience in Software Development an
 
 😄 Image Analytics with Computer Vision, speciﬁcally weapon detection. Deep Learning powered Chatbot for IT Act India. 
 
-Trained 5000+ Computer Science enthusiasts in Data Science, Machine Learning, Full Stack Web Development, and major project development, with technologies like ReactJS, NodeJS, Python, SQL, Tableau, Statistics, Numpy, Pandas, Matplotlib, Scikit-Learn. 
+### Mentor
 
-Mentor of students for Smart India Hackathon, won by them. 
+Trained 5000+ Computer Science enthusiasts in Data Science, Machine Learning, Full Stack Web Development, and major project development, with technologies like ReactJS, NodeJS, Python, SQL, Tableau, Statistics, Numpy, Pandas, Matplotlib, Scikit-Learn. 
 
 Recruited, interviewed, and hired 100+ developers to keep up with partner company's growth and expansion. Hosted more than 20 in-house AI Hackathons. 
 
 400+ Free sessions on Python and Machine Learning. 
 
-Built a community of 2100+ Data Scientists on Instagram by generating quality content on Artiﬁcial Intelligence and subﬁelds like machine learning, deep learning, NLP, and computer vision. 
+Built a community of 2500+ Data Scientists on Instagram by generating quality content on Artiﬁcial Intelligence and subﬁelds like machine learning, deep learning, NLP, and computer vision. 
 
 ### Research Thesis 
 
