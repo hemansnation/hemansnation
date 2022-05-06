@@ -87,7 +87,7 @@ Built a community of 2100+ Data Scientists on Instagram by generating quality co
 
 Knowledge tracing, is the personation of student knowledge over time with advanced machine learning algorithms. The model builds on more than 13 Crore interactions of more than 7 lakh students. 
 
-Tools | Frameworks 
+### Tools | Frameworks 
 
 Web: ReactJS, NodeJS, ExpressJS, MongoDB, GraphQL
 
