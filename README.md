@@ -1,7 +1,7 @@
 Hi 👋 My name is Himanshu Ramchandani
 =====================================
 
-Data Scientist | MERN Stack Engineer
+Data Science Cosultant | MERN Stack Engineer
 ------------------------------------
 ![](https://komarev.com/ghpvc/?username=hemansnation&label=PROFILE+VIEWS)
 
