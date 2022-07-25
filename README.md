@@ -5,6 +5,10 @@ Data Science Consultant | MERN Stack Engineer
 ------------------------------------
 ![](https://komarev.com/ghpvc/?username=hemansnation&label=PROFILE+VIEWS)
 
+* 🌍  Notes on Artificial Intelligence [Himanshu Ramchandani](https://www.himanshuramchandani.co/)
+* ✉️  You can contact me at [connect@himanshuramchandani.co](mailto:connect@himanshuramchandani.co)
+
+
 
 <a href="https://www.twitter.com/hemansnation" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/hemansnation?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
@@ -102,9 +106,6 @@ Data Visualization: Matplotlib, Tableau, Seaborn.
 Cloud Services: AWS, Google Colaboratory, Kaggle kernel. 
 
 Integrated Development Environment: Jupyter-Notebook, Sublime Text, PyCharm.
-
-* 🌍  I'm based in India
-* ✉️  You can contact me at [himanshuramchandani08@gmail.com](mailto:himanshuramchandani08@gmail.com)
 
 
 ### Badges
