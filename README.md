@@ -1,7 +1,7 @@
 Hi 👋 My name is Himanshu Ramchandani
 =====================================
 
-Data Scientist | Python NLP | Building AI-Powered Data Products | Mentor
+Data Scientist | Python NLP | Help businesses make data-driven decisions and build AI-Powered data products.
 ------------------------------------
 ![](https://komarev.com/ghpvc/?username=hemansnation&label=PROFILE+VIEWS)
 
