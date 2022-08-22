@@ -1,7 +1,7 @@
 Hi 👋 My name is Himanshu Ramchandani
 =====================================
 
-Data Scientist | Python NLP | Building AI-Powered Data Products | Mentor | One Epoch at a Time
+Data Scientist | Python NLP | Building AI-Powered Data Products | Mentor
 ------------------------------------
 ![](https://komarev.com/ghpvc/?username=hemansnation&label=PROFILE+VIEWS)
 
