@@ -1,7 +1,7 @@
 Hi 👋 My name is Himanshu Ramchandani
 =====================================
 
-Data Science Consultant | MERN Stack Engineer
+Data Scientist | Python NLP | Building AI-Powered Data Products | Mentor | One Epoch at a Time
 ------------------------------------
 ![](https://komarev.com/ghpvc/?username=hemansnation&label=PROFILE+VIEWS)
 
