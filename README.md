@@ -1,7 +1,7 @@
-Hi 👋 My name is Himanshu Ramchandani
+Hi 👋 I'm a Data & Engineering Consultant
 =====================================
 
-Data Scientist | Python NLP | Help businesses make data-driven decisions and build AI-Powered data products.
+I help startups utilize big data to build AI-powered products and mentor professionals to improve their skills in the data field by 1% every day.
 ------------------------------------
 ![](https://komarev.com/ghpvc/?username=hemansnation&label=PROFILE+VIEWS)
 
