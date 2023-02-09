@@ -1,4 +1,4 @@
-Hi 👋 I'm a Data & Engineering Consultant
+[Git & GitHub Workshop - Register Here](https://god-level-python.notion.site/Git-and-GitHub-Workshop-1d4d70450aa94dd7ad2c062c0fec3cb8) <br><br>Hi 👋 I'm a Data & Engineering Consultant
 =====================================
 
 I help startups utilize big data to build AI-powered products and mentor professionals to improve their skills in the data field by 1% every day.
