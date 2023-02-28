@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 I help startups utilize big data to build AI-powered products and mentor professionals to improve their skills in the data field by 1% every day.
 ------------------------------------
-## [Git & GitHub Course](https://god-level-python.notion.site/Git-and-GitHub-Workshop-1d4d70450aa94dd7ad2c062c0fec3cb8)
+## Get life-time access to my [Git & GitHub Course](https://god-level-python.notion.site/Git-GitHub-Course-Make-Recruiters-reach-You-Build-your-stunning-profile-First-open-source-cont-1d4d70450aa94dd7ad2c062c0fec3cb8)
 
 ![](https://komarev.com/ghpvc/?username=hemansnation&label=PROFILE+VIEWS)
 
