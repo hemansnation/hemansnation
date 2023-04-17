@@ -5,9 +5,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 I help startups utilize big data to build AI-powered products and mentor professionals to improve their skills in the data field by 1% every day.
 ------------------------------------
-## Get life-time access to these courses:
-### 1 - [Python for Data Professionals](https://god-level-python.notion.site/Python-for-Data-Professionals-Course-Logic-Building-API-building-NumPy-Data-Analysis-with-Panda-8e3717c428e64c2fbb58546b036d80de)
-### 2 - [Git & GitHub Growth Course](https://god-level-python.notion.site/Git-GitHub-Course-Make-Recruiters-reach-You-Build-your-stunning-profile-First-open-source-cont-1d4d70450aa94dd7ad2c062c0fec3cb8)
+## Get life-time access to these courses: [Python for Data Professionals](https://god-level-python.notion.site/Python-for-Data-Professionals-Course-Logic-Building-API-building-NumPy-Data-Analysis-with-Panda-8e3717c428e64c2fbb58546b036d80de) | [Git & GitHub Growth Course](https://god-level-python.notion.site/Git-GitHub-Course-Make-Recruiters-reach-You-Build-your-stunning-profile-First-open-source-cont-1d4d70450aa94dd7ad2c062c0fec3cb8)
 
 ![](https://komarev.com/ghpvc/?username=hemansnation&label=PROFILE+VIEWS)
 
