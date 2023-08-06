@@ -1,11 +1,11 @@
-## Python - Data Structures & Algorithms Live Batch -> [Register Here](https://god-level-python.notion.site/Python-for-Absolute-Beginners-Non-Tech-Professionals-15-Projects-30-Topics-500-Practice-Questi-721c325bd3a9469f952b3317552e50a8)
+## [Machine Learning, MLOps & Generative AI Live Batch Register Here](https://god-level-python.notion.site/Build-a-Strong-Machine-Learning-Portfolio-Personal-Brand-Get-Tons-of-Job-Offers-in-12-Weeks-Gua-b3c98407b4ab45819811db081ae9d102?pvs=4)
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm a Data & Engineering Consultant
 =====================================
 
 I help startups utilize big data to build AI-powered products and mentor professionals to improve their skills in the data field by 1% every day.
 ------------------------------------
-## Get life-time access to these courses: 
+## Get lifetime access to these courses: 
 ### - [Python & Data Structures for Data Science and Machine Learning](https://god-level-python.notion.site/Python-Data-Structures-for-Data-Science-and-Machine-Learning-721c325bd3a9469f952b3317552e50a8?pvs=4)
 ### - [Git & GitHub Growth Course](https://god-level-python.notion.site/Git-GitHub-Course-Make-Recruiters-reach-You-Build-your-stunning-profile-First-open-source-cont-1d4d70450aa94dd7ad2c062c0fec3cb8)
 
