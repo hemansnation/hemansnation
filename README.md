@@ -1,4 +1,4 @@
-## [Machine Learning, MLOps & Generative AI Live Batch Register Here](https://god-level-python.notion.site/Build-a-Strong-Machine-Learning-Portfolio-Personal-Brand-Get-Tons-of-Job-Offers-in-12-Weeks-Gua-b3c98407b4ab45819811db081ae9d102?pvs=4)
+## [Machine Learning, MLOps & Generative AI Roadmap & Self-Paced Course](https://god-level-python.notion.site/Build-a-Strong-Machine-Learning-Portfolio-Personal-Brand-Get-Tons-of-Job-Offers-in-12-Weeks-Gua-b3c98407b4ab45819811db081ae9d102?pvs=4)
 
 Hi, I am an AI Advisor & Data Strategy Consultant
 =====================================
