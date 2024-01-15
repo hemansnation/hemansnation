@@ -121,6 +121,8 @@ Integrated Development Environment: Jupyter-Notebook, Sublime Text, PyCharm.
 
 <a href="http://www.github.com/hemansnation"><img src="https://activity-graph.herokuapp.com/graph?username=hemansnation&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
+[![Himanshu Ramchandani profile views](https://u8views.com/api/v1/github/profiles/37770869/views/day-week-month-total-count.svg)](https://u8views.com/github/hemansnation)
+
 ### Support Me
 
 <a href="https://www.buymeacoffee.com/hemansnation"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
