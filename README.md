@@ -1,13 +1,22 @@
-## [Machine Learning, MLOps & Generative AI Roadmap & Self-Paced Course](https://embeds.beehiiv.com/efdd81cb-9fca-427d-b60d-d8c2fabb1325)
+## [AI/ML Ideas, Strategies, Newsletter & Community🚀](https://embeds.beehiiv.com/f5d8b90b-b131-434f-8e5c-45dd815e67b1)
 
-Hi, I am an AI Advisor & Data Strategy Consultant
+AI Strategist & Consultant
 =====================================
 
-I help startups utilize big data to build AI-powered products and mentor professionals to improve their skills in the data field by 1% every day.
+Building AI-powered products and sharing knowledge to help leaders improve their skills to be in the top 1%.
 ------------------------------------
-## Get lifetime access to these courses: 
-### - [Python & Data Structures for Data Science and Machine Learning](https://god-level-python.notion.site/Python-Data-Structures-for-Data-Science-and-Machine-Learning-721c325bd3a9469f952b3317552e50a8?pvs=4)
-### - [Git & GitHub Growth Course](https://god-level-python.notion.site/Git-GitHub-Course-Make-Recruiters-reach-You-Build-your-stunning-profile-First-open-source-cont-1d4d70450aa94dd7ad2c062c0fec3cb8)
+## Recommended Reads: 
+[Tokens VS Parameters in LLMs](https://newsletter.himanshuramchandani.co/p/tokens-vs-parameters-in-llms)
+
+[AI Certifications are a Waste of Time](https://newsletter.himanshuramchandani.co/p/ai-certifications-are-a-waste-of-time)
+
+[AI hype of half-working solutions VS Reality](https://newsletter.himanshuramchandani.co/p/ai-hype-of-half-working-solutions-vs-reality)
+
+[5 Alarming Things You Must Know About Generative AI](https://newsletter.himanshuramchandani.co/p/5-alarming-things-you-must-know-about-generativeai-as-a-leader)
+
+[How to build a System that will make you an AI expert in 5 minutes🚀](https://newsletter.himanshuramchandani.co/p/how-to-build-a-system-that-will-make-you-an-ai-expert-in-5-minutes)
+
+
 
 ![](https://komarev.com/ghpvc/?username=hemansnation&label=PROFILE+VIEWS)
 
