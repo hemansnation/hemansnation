@@ -1,6 +1,8 @@
-## [AI/ML Ideas, Strategies, Newsletter & Community🚀](https://embeds.beehiiv.com/f5d8b90b-b131-434f-8e5c-45dd815e67b1)
+## [AI/ML Ideas, Strategies, Newsletter & Community🚀](https://embeds.beehiiv.com/909363d2-9abc-4c70-a4f8-298eaebe9213)
 
-AI Strategist & Consultant
+### [Live Cohort GenerativeAI, Machine Learning, MLOps for Leaders & Professionals](https://live.himanshuramchandani.co/)
+
+AI Strategic Consultant
 =====================================
 
 Building AI-powered products and sharing knowledge to help leaders improve their skills to be in the top 1%.
