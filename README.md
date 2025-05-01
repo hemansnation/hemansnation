@@ -1,6 +1,6 @@
 ## [AI/ML Ideas, Strategies, Newsletter & Community🚀](https://embeds.beehiiv.com/909363d2-9abc-4c70-a4f8-298eaebe9213)
 
-### [Live Cohort GenerativeAI, Machine Learning, MLOps for Leaders & Professionals](https://live.himanshuramchandani.co/)
+### [AI Engineer HQ](https://www.masterdexter.io/ai-engineer-hq)
 
 AI Strategic Consultant
 =====================================
