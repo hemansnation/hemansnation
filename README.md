@@ -1,11 +1,11 @@
-## [AI/ML Ideas, Strategies, Newsletter & Community🚀](https://embeds.beehiiv.com/909363d2-9abc-4c70-a4f8-298eaebe9213)
+## [How to Build & Apply AI for You (and Your Business)🚀](https://newsletter.himanshuramchandani.co/subscribe)
 
 ### [AI Engineer HQ](https://www.masterdexter.io/ai-engineer-hq)
 
-AI Strategic Consultant
+AI Engineering Development & Consulting
 =====================================
 
-Building AI-powered products and sharing knowledge to help leaders improve their skills to be in the top 1%.
+Building AI-powered products and bridging the gap between AI Leadership and AI Engineering.
 ------------------------------------
 ## Recommended Reads: 
 [Tokens VS Parameters in LLMs](https://newsletter.himanshuramchandani.co/p/tokens-vs-parameters-in-llms)
