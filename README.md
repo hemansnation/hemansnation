@@ -1,5 +1,3 @@
-## [How to Build & Apply AI for You (and Your Business)🚀](https://newsletter.himanshuramchandani.co/subscribe)
-
 ### [AI Engineer HQ](https://www.masterdexter.io/ai-engineer-hq)
 
 AI Engineering Development & Consulting
